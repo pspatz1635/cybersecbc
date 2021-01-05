@@ -102,6 +102,7 @@ Specific Commands To Install The Elk Server
   - Add:
 
 [elk]
+
 10.1.0.4 ansible_python_interpreter=/usr/bin/python3
 
 -IP address should be the private IP of your ELK Server
