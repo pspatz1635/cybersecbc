@@ -81,6 +81,7 @@ This ELK server is configured to monitor the following machines:
 We have installed the following Beats on these machines:
 - Filebeat
 - Metricbeat
+
 These Beats allow us to collect the following information from each machine:
 - Filebeat collects log data and centralizes it, this allows us to see all activity on the DVWA machines.
 - Metricbeat collects metrics from the operating system and from services and centralizes it, this allows us to the system resources on the DVWA machines.
