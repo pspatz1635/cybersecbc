@@ -55,7 +55,7 @@ A summary of the access policies in place can be found in the table below.
 |         HTTP_for-DVWA         |   76.69.xxx.xxx   | Virtual Network |  Allow |         Yes         |
 |        AllowVnetInBound       |  Virtual Netwwork | Virtual Network |  Allow |          No         |
 | AllowAzureLoadBalancerInBound | AzureLoadBalancer |       Any       |  Allow |          No         |
-|         DenyAllInBound        |        Any        |       Any       |  Deny  |          no         |
+|         DenyAllInBound        |        Any        |       Any       |  Deny  |          No         |
 |          elk_port_5601        |   76.69.xxx.xxx   | Virtual Network |  Allow |         Yes         |
 
 ### Elk Configuration
